@@ -34,12 +34,12 @@ export default async function handler(req: NextRequest) {
         <img
           width="256"
           height="256"
-          src={`https://miro.medium.com/max/720/1*YBoQ1gna5Y_xjgzUqhzjOA.png`}
+          src={`https://assets.website-files.com/5e3dcab63f5462821f6fc673/60d0e5d330d846273e494605_Mask%20Group-1.png`}
           style={{
             borderRadius: 128,
           }}
         />
-        <p>github.com/{username}</p>
+        <p>This is a test from the frontend team</p>
       </div>
     ),
     {
